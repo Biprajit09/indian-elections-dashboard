@@ -69,10 +69,10 @@ Interactive Tableau dashboard analyzing Indian parliamentary elections from 1952
 
 ## 📸 Preview
 
-![Overview Page](images/OVERVIEW.png)  
-![2024 Insight](images/2024 insight.png)  
-![Constituency Explorer](images/Consistuency Explorer.png)  
-![Winner Analysis](images/Winner.png)
+![Overview Page](./OVERVIEW.png)  
+![2024 Insight](./2024%20insight.png)  
+![Constituency Explorer](./Consistuency%20Explorer.png)  
+![Winner Analysis](./Winner.png)
 
 ---
 
